@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/ChangeClothes.unity
+  isLoaded: 1
+  isActive: 1
